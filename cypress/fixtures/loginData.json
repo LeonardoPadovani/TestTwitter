@@ -1,0 +1,9 @@
+{
+    "email" : "@wwww",
+    "senha" : "wwwwww",
+    "emailInvalido" : "invalid email",
+    "senhaInvalida" : "invalid senha",
+    "msgemLoginInvalido" : "O nome de usuário e a senha fornecidos não correspondem às informações em nossos registros. Verifique-as e tente novamente"
+}
+
+
